@@ -1,13 +1,13 @@
 ---
-title: My Books — Delete your account
+title: SpotMyBook — Delete your account
 ---
 
-# Delete your My Books account
+# Delete your SpotMyBook account
 
-You can delete your My Books account and its data at any time.
+You can delete your SpotMyBook account and its data at any time.
 
 ## In the app
-1. Open **My Books** and go to **Profile**.
+1. Open **SpotMyBook** and go to **Profile**.
 2. Tap **Delete account**.
 3. Type **DELETE** to confirm, then tap **Delete**.
 
@@ -15,13 +15,13 @@ You need an internet connection. When it's done, the app signs you out.
 
 ## Without the app
 Email **ellog.care@gmail.com** from the email address of your account, with the subject
-**"Delete my My Books account"**. We'll delete the account within 30 days and reply to confirm.
+**"Delete my SpotMyBook account"**. We'll delete the account within 30 days and reply to confirm.
 
 ## What is deleted
 - Your sign-in (email address, name and account ID).
 - Your library: books, shelves, tags, cover photos, lending details and reading history, on all
   your devices.
-- Your online backups (My Books Pro).
+- Your online backups (SpotMyBook Pro).
 
 ## What is kept
 - **Households:** if you are a member of someone else's household, the books you added stay with
