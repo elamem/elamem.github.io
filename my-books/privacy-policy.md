@@ -1,21 +1,21 @@
 ---
-title: My Books — Privacy Policy
+title: SpotMyBook — Privacy Policy
 ---
 
-# Privacy Policy — My Books
+# Privacy Policy — SpotMyBook
 
 **Effective date:** 20 October 2026
 
-My Books is an app for keeping a catalogue of the physical books you own: where each one sits on
+SpotMyBook is an app for keeping a catalogue of the physical books you own: where each one sits on
 your shelves, who you lent it to, and what you've read. This policy explains what the app stores,
-where, and how you can delete it. "We" means the developer of My Books.
+where, and how you can delete it. "We" means the developer of SpotMyBook.
 
 **In short**
 - Without an account, your library stays on your phone; we don't receive it.
-- With an account (My Books Pro), we store your library so it syncs across your devices and with
+- With an account (SpotMyBook Pro), we store your library so it syncs across your devices and with
   the people you share it with.
 - The free version shows ads from Google AdMob, which uses information about your device to show
-  them. My Books Pro has no ads. We have no analytics or tracking of our own.
+  them. SpotMyBook Pro has no ads. We have no analytics or tracking of our own.
 - Crash reports (no names, emails or books in them) help us fix bugs.
 - You can export everything, and delete your account and all its data from inside the app.
 
@@ -40,7 +40,7 @@ where, and how you can delete it. "We" means the developer of My Books.
 - Cover photos you take or pick. Each photo is turned into a new image (cropped and resized)
   before it is stored, which removes its metadata, such as where the photo was taken.
 
-**Online backups (My Books Pro, if turned on)**
+**Online backups (SpotMyBook Pro, if turned on)**
 - Once a week, a copy of your library (the details above and your cover photos) is saved to your
   account. The last 4 copies are kept; older ones are deleted automatically. You can turn this
   off in **Profile → Your data**.
@@ -62,7 +62,7 @@ where, and how you can delete it. "We" means the developer of My Books.
 - In the EU, UK and some other places, you're asked first whether ads may be personalised. You can
   change your choice any time in **Profile → Ad privacy choices**. You can also reset or delete
   your advertising ID in Android's settings (Privacy → Ads).
-- With My Books Pro there are no ads.
+- With SpotMyBook Pro there are no ads.
 
 **Purchases**
 - Google Play handles payments; we never see your card or bank details. To unlock Pro on your
@@ -130,7 +130,7 @@ so keep it somewhere safe.
 - For any other request, email us.
 
 ## 8. Children
-My Books is not directed at children under 13, and we don't knowingly collect data from them.
+SpotMyBook is not directed at children under 13, and we don't knowingly collect data from them.
 
 ## 9. Changes to this policy
 If this policy changes, we'll update this page and the effective date above.
